@@ -2,7 +2,7 @@
 <br>
 
 
-Current Project
+<h3>Current Project</h3>
 Building a React JS npm library for a date picker.
 
  Contact
