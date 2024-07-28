@@ -2,7 +2,7 @@
 <h3>Current Project</h3>
 Building a React JS npm library for a date picker.
 
- Contact
+ <h3>Contact</h3>
 <ul>
   <li>
     Email: <a href="mailto:omarfayadhd2001@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="20px" height="20px"/></a>
