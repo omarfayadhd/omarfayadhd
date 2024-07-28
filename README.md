@@ -14,4 +14,4 @@ Building a React JS npm library for a date picker.
   </li>
 </ul>
 
-Feel free to check out my projects! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30px" height="30px">
+Feel free to check out my projects! <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif" width="30px" height="30px">
