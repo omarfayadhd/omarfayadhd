@@ -1,6 +1,6 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>  
 <br>
-<h2>I'm <b>Omar</b> , a developer passionate about creating user-friendly web applications.</h2>
+<h2>I'm <bold>Omar</bold> , a developer passionate about creating user-friendly web applications.</h2>
 
 Current Project <br>
 Building a React JS npm library for a date picker.
