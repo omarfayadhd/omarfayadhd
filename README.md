@@ -3,6 +3,6 @@
 Building a React JS npm library for a date picker.
 
  <h3>Contact</h3>
-📧 <a href="omarfayadhd2001@gmail.com">omarfayadhd2001@gmail.com</a>
+📧 reach me at <a href="omarfayadhd2001@gmail.com">omarfayadhd2001@gmail.com</a>
 
 Feel free to check out my projects! 
