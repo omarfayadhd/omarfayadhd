@@ -1,27 +1,11 @@
-<p align="center"><a href=><img width="80%" alt="Hello, I'm Omar."/></a></p>
+Hi there <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="30px" height="30px">
+I'm Omar, a developer passionate about creating user-friendly web applications.
 
-<br />
+Current Project
+Building a React JS npm library for a date picker.
 
-I'm a self-taught passionate web developer from India 🇮🇳
+Contact
+Email: [omarfayadhd2001@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/omar-fayadh-d-b0bbb3214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
-**About me**
-
-- 💼 Software Developer
-- 💬 Ask me about anything [here](omarfayadhd2001@gmail.com)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-<br />
-<br />
-
-<a href="">
-  <img align="right" alt="Omar Fayadh | Twitter" width="21px" src= />
-</a>
-<a href=">
-  <img align="right" alt="Omar Fayadh | CodeSandbox" width="20px" src="" />
-</a>
+Feel free to check out my projects!
