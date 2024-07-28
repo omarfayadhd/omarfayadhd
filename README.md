@@ -1,4 +1,5 @@
 Hi there <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="30px" height="30px">
+<br>
 I'm Omar, a developer passionate about creating user-friendly web applications.
 
 Current Project
